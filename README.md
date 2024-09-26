@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Ahh! I was just trying to say Hii" height="300" width="450" src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif">
+<img align="right" alt="Ahh! I was just trying to say Hii" width="450" src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detox0707&label=Profile%20views&color=0e75b6&style=flat" alt="detox0707" /> </p>
 
