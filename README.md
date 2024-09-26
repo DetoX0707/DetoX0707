@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate web developer </h3>
+<h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Error" width="400" src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detox0707&label=Profile%20views&color=0e75b6&style=flat" alt="detox0707" /> </p>
 
@@ -23,4 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=detox0707&show_icons=true&locale=en&layout=compact" alt="detox0707" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=detox0707&show_icons=true&locale=en" alt="detox0707" /></p>
+
+
+
 
