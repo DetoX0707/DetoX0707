@@ -1,7 +1,7 @@
+<img align="top" alt="Ahh!not again!!" width="100" src="https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif">
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="top" alt="Ahh!not again!!" width="200" src="https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif">
 <img align="right" alt="Ahh! I was just trying to say Hii" width="400" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detox0707&label=Profile%20views&color=0e75b6&style=flat" alt="detox0707" /> </p>
