@@ -1,4 +1,4 @@
-<img align="top" alt="Ahh!not again!!" width="900" height="250" src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif">
+<img align="top" alt="Ahh!not again!!" width="900" height="250" src="https://i.pinimg.com/originals/ab/72/5b/ab725b695c69250819b333f1fff4bd37.gif">
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
